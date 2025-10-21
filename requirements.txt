@@ -1,0 +1,30 @@
+# Core scientific stack
+pandas
+scikit-learn
+scipy
+numpy
+
+# Deep Learning
+tensorflow
+keras-tuner
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Evaluation & interpretability
+shap
+imbalanced-learn
+
+# Experiment tracking
+tensorboard
+wandb
+
+# Deployment/serving
+fastapi
+uvicorn
+
+# Utility
+joblib
+tqdm
