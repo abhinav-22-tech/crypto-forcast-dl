@@ -58,4 +58,4 @@ def load_and_prepare_data(file_path, window_size=60):
 
   return X_train, y_train, X_val, y_val, X_test, y_test, scaler
 
-load_and_prepare_data('../data/bitcoin_data.csv')
+# load_and_prepare_data('../data/bitcoin_data.csv')
